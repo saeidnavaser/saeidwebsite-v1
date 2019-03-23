@@ -1,0 +1,145 @@
+body{
+    margin: 0;
+    background-color:white;
+    font-family: Segoe UI, Lato, sans-serif, fantasy;
+     height: 100vh;
+    overflow-x: hidden;
+}
+.navbar-brand{
+   padding-left: 6vw;
+}
+.navbar-nav{
+   padding-right: 2vw;
+   font-size: 18px;
+   font-family: Lato medium;
+}
+.nav-item{
+     padding-left: 1.5vw;
+     color: black;
+}
+.carousel-item{
+   size=100%;
+   z-index: 1;
+}
+.card-body-first{
+margin: 0;
+padding: 0;
+   background-color: #000000;
+  padding:3vw;
+}
+h1{
+  margin:0;
+  padding:0;
+  text-align: center;
+  font-family: Impact;
+  color: white;
+  font-size: 4vw;
+}
+p{
+  font-family: lato;
+  text-align: center;
+  color: white;
+  font-size: 1.5vw;
+}
+
+.btn-1{
+  text-align: center;
+      float: center;
+}
+.btn-default {
+      padding:0.3vw 2vw;
+      font-size: 1vw;
+      background: #fff;
+      color: #000;
+      text-align: center;
+      float: center;
+}
+.btn-1{
+  text-align: center;
+      float: center;
+}
+.btn-default {
+      padding:0.3vw 2vw;
+      font-size: 1vw;
+      background: #fff;
+      color: #000;
+      text-align: center;
+      float: center;
+}
+#h-2{
+  margin:0;
+  padding:0;
+  text-align: left;
+  font-family: Impact;
+  color: #000000;
+  font-size: 4vw;
+}
+#p-2{
+  font-family: lato;
+  text-align: left;
+  color: black;
+  font-size: 1.5vw;
+}
+#p-3{
+  font-family: lato;
+  text-align: right;
+float: right;
+  color: #000000;
+  font-size: 1.5vw;
+}
+a{
+text-decoration: none;
+}
+.card-title{
+    padding: 2vw;
+      font-family: Impact;
+}
+.card-text{
+     font-family: lato;
+  text-align: left;
+float: left;
+padding: 1vw;
+font-color: black;
+}
+.icon-footer{
+text-align:right;
+float: right;
+padding-right: 1vw;
+}
+.col-sm-6{
+padding-right: 5vw;
+}
+.col-sm-3{
+text-align:left;
+}
+h3{
+font-family: impact;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
+
+li a {
+  display: block;
+  color: black;
+  padding: 4px 8px;
+  text-decoration: none;
+  text-align: left;
+}
+#p-footer{
+  color: black;
+  font-family: lato;
+  text-align: left;
+  font-size: 1vw;
+}
+#p-2f{
+  color: black;
+  font-family: lato;
+  text-align: right;
+  font-size: 0.9vw;
+  padding-right: 4vw;
+}
